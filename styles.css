@@ -1,0 +1,55 @@
+body {
+    background-color: #12161C;
+    color: #FFFFFA;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+    font-size: 46px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 650px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+ul {
+    line-height: 30px;
+}
+
+li {
+    font-size: 18px;
+
+}
+
+a {
+    color: #FFFFFA;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FFFFFA;
+}
+
+a#kung-pao-link:hover {
+    background-color: #DE8C12;
+    color: #12161C;
+}
+
+a#basil-chicken-link:hover {
+    background-color: #0A6885;
+    color: #12161C;
+}
+
+a#guac-link:hover {
+    background-color: #3A975E;
+    color: #12161C;
+}
