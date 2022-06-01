@@ -26,3 +26,19 @@ h2.basil-chicken-headings {
 h2.guacamole-headings {
     color: #3A975E;
 }
+
+/* Home page link styling */
+
+a.home-page-link {
+    text-decoration: none;
+    color: #FFFFFA;
+    font-weight: bold;
+    border: 1px solid;
+}
+
+a.home-page-link:hover {
+    background-color: #FFFFFA;
+    color: #12161C;
+    font-weight: bold;
+
+}
